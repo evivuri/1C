@@ -1,1 +1,1 @@
-# 1C
+https://algo1c.contest.codeforces.com
